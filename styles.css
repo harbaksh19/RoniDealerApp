@@ -1,0 +1,31 @@
+body{
+    background-color: floralwhite;
+}
+.datadiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    margin: 20px;
+}
+.maindiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+
+}
+.maindiv>h1{
+    color: brown;;
+}
+#btn{
+    padding: 10px;
+    margin: 10px;
+    
+}
+#final{
+    padding: 10px;
+    margin: 10px;
+}
